@@ -20,7 +20,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
   </build>
   <properties>
 		 <!-- Test -->
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
   </properties>
   <dependencies>
   		<dependency>
